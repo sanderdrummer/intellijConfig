@@ -1,0 +1,30 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Twilight (SL).tmTheme",
+	"default_line_ending": "unix",
+	"dictionary": "Packages/User/Dictionary/English (British).dic",
+	"fallback_encoding": "UTF-8",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Alignment",
+		"Emmet",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter-html-tidy",
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"keypress"
+	],
+	"rulers":
+	[
+		80
+	],
+	"spell_check": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"typescript_plugin_tsc_version": "1.7.3",
+	"word_wrap": true,
+	"wrap_width": 120
+}

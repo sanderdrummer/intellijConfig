@@ -1,0 +1,3115 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"art",
+				"articleimageQueries"
+			],
+			[
+				"ar",
+				"articleimageQueries"
+			],
+			[
+				"idArticle",
+				"idArticlename"
+			],
+			[
+				"article",
+				"articleimageEntry"
+			],
+			[
+				"idRim",
+				"idRimhubcap"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"for",
+				"forEach(f, context?)"
+			],
+			[
+				"ex",
+				"externalshopQueries"
+			],
+			[
+				"order",
+				"orderQueries"
+			],
+			[
+				"Medi",
+				"Mediasubtype"
+			],
+			[
+				"chec",
+				"checkForDepotOrdersAndState"
+			],
+			[
+				"id",
+				"idAdvertisingCampaign"
+			],
+			[
+				"rs",
+				"result"
+			],
+			[
+				"idA",
+				"idAdvertisingcampaign"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"new",
+				"newAuthToken"
+			],
+			[
+				"has",
+				"hasAuth"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"bas",
+				"base64_encode"
+			],
+			[
+				"auth",
+				"authHash"
+			],
+			[
+				"au",
+				"auth"
+			],
+			[
+				"dis",
+				"displaycount"
+			],
+			[
+				"S",
+				"Sql_Operator"
+			],
+			[
+				"scroll",
+				"scrollHandler	[]"
+			],
+			[
+				"scr",
+				"scrollHandler	[]"
+			],
+			[
+				"banner",
+				"bannerCtrl	(?)"
+			],
+			[
+				"pro",
+				"prototype	(?)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"vehi",
+				"vehicleindexIds"
+			],
+			[
+				"vi",
+				"vehicleIndexIds"
+			],
+			[
+				"ve",
+				"vehicleindexIds"
+			],
+			[
+				"vehicleinde",
+				"vehicleIndexIds"
+			],
+			[
+				"Vehiclein",
+				"vehicleIndexIds"
+			],
+			[
+				"fuel",
+				"fuelSince"
+			],
+			[
+				"ad",
+				"advertisingcampaignQueries"
+			],
+			[
+				"cu",
+				"customerRimNote	(?)"
+			],
+			[
+				"rim",
+				"rimFitsCar	(?)"
+			],
+			[
+				"rimF",
+				"rimFitsCar	(bool)"
+			],
+			[
+				"rimf",
+				"rimFitsCar"
+			],
+			[
+				"do",
+				"doesRimFit"
+			],
+			[
+				"car",
+				"carKeynumber	(str)"
+			],
+			[
+				"veh",
+				"vehicleSelected	(?)"
+			],
+			[
+				"de",
+				"details	(?)"
+			],
+			[
+				"arra",
+				"arrayHelper	{}"
+			],
+			[
+				"crea",
+				"createCocLink"
+			],
+			[
+				"current",
+				"currentVehicle"
+			],
+			[
+				"link",
+				"linkedCocGrid"
+			],
+			[
+				"select",
+				"selection	(?)"
+			],
+			[
+				"row",
+				"rowIndex	(num)"
+			],
+			[
+				"coc",
+				"cocNoteGrid	(?)"
+			],
+			[
+				"up",
+				"updateCocLinks"
+			],
+			[
+				"selected",
+				"selectedRecord	(?)"
+			],
+			[
+				"getSelec",
+				"getSelectionModel"
+			],
+			[
+				"linked",
+				"linkedCocGrid	(?)"
+			],
+			[
+				"getSe",
+				"getSelectionModel"
+			],
+			[
+				"sele",
+				"selectedText	(?)"
+			],
+			[
+				"selecte",
+				"selectedText	(?)"
+			],
+			[
+				"tri",
+				"trimmedCOCSelectionBox"
+			],
+			[
+				"rawC",
+				"rawCOCSelectionBox"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"idV",
+				"idVehiclindex"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"desc",
+				"descriptionArea	(?)"
+			],
+			[
+				"next",
+				"nextPostion	(num)"
+			],
+			[
+				"med",
+				"mediaSubtypeCombo"
+			],
+			[
+				"Techni",
+				"Technicalreport"
+			],
+			[
+				"E-Mail",
+				"E-Mailadresse"
+			],
+			[
+				"dataV",
+				"datavehicle"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"data",
+				"dataVehicleFueling"
+			],
+			[
+				"getId",
+				"getIdVehicleindexVehicletyrerawVehiclerimrawByIdVehicleindex"
+			],
+			[
+				"idVe",
+				"idVehicleindex"
+			],
+			[
+				"tit",
+				"titleedited"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"getS",
+				"getSelected"
+			],
+			[
+				"getSele",
+				"getSelectionModel"
+			],
+			[
+				"rimhu",
+				"rimhubcapObj	(?)"
+			],
+			[
+				"rimh",
+				"rimhubcapObj	(?)"
+			],
+			[
+				"rimhub",
+				"rimhubcap"
+			],
+			[
+				"idD",
+				"idDummy	(?)"
+			],
+			[
+				"model",
+				"modelcode	(?)"
+			],
+			[
+				"addE",
+				"addEntryWindow	(?)"
+			],
+			[
+				"Rimhub",
+				"RimhubcapPanelEntry"
+			],
+			[
+				"idR",
+				"idRimhubcap	(?)"
+			],
+			[
+				"init",
+				"initEntries"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"add",
+				"additonalParams	{}"
+			],
+			[
+				"pos",
+				"positions	[]"
+			],
+			[
+				"save",
+				"saveMediainformation"
+			],
+			[
+				"ds",
+				"displayFilter	(?)"
+			],
+			[
+				"remve",
+				"removeClass"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"trigg",
+				"$triggerdElement	(?)"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fixed",
+				"div.fixed"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"get",
+				"getwasOldIENoteClosedCoockie〔function〕"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"cashBack",
+				"cashbackDefault	(num)"
+			],
+			[
+				"netdue",
+				"netduedays	(num)"
+			],
+			[
+				"documentDate",
+				"documentDate2	(?)"
+			],
+			[
+				"contact",
+				"contactRecord	(?)"
+			],
+			[
+				"Customer",
+				"CustomerImageUploadWindow"
+			],
+			[
+				"disa",
+				"disabled"
+			],
+			[
+				"user",
+				"$userAgent〔variable〕"
+			],
+			[
+				"is",
+				"isOldIE"
+			],
+			[
+				"valid",
+				"$validFileExtensions〔variable〕"
+			],
+			[
+				"header",
+				"headerHeight	(num)"
+			],
+			[
+				"idContact",
+				"idContactType"
+			],
+			[
+				"idCon",
+				"$idContacttype〔variable〕"
+			],
+			[
+				"comm",
+				"common〔function〕"
+			],
+			[
+				"upda",
+				"updateVatin"
+			],
+			[
+				"vatnumber",
+				"$vatnumberEntry〔variable〕"
+			],
+			[
+				"vatnumb",
+				"$vatnumberQueries〔variable〕"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"mail",
+				"$mailAddress〔variable〕"
+			],
+			[
+				"re",
+				"requestStore	(?)"
+			],
+			[
+				"resp",
+				"responseStore	(?)"
+			],
+			[
+				"requ",
+				"requestStore	(?)"
+			],
+			[
+				"field",
+				"fieldsetCombo1"
+			],
+			[
+				"uplo",
+				"uploadInput	(?)"
+			],
+			[
+				"yout",
+				"youtubeURL"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/RetailMediaMarketingPanel.js",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/AccountingDocument/AccountingDocumentWindow.ui.js",
+			"settings":
+			{
+				"buffer_size": 25896,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/BannerStartForm.ui.js",
+			"settings":
+			{
+				"buffer_size": 869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Projekte/shopsystem/controller/verwaltung/Tabs/VehicleTyreRimCare/Query.php",
+			"settings":
+			{
+				"buffer_size": 2596,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Projekte/shopsystem/global/common/Database/Queries/DataVehicle/Vehiclecocnote.php",
+			"settings":
+			{
+				"buffer_size": 5898,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/BannerStartForm.js",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 11787 files for \"buchaltungsbeleg\"\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\index.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\parser.generated.js:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\parse-json\\node_modules\\error-ex\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\index.js:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\readme.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\strip-bom\\node_modules\\is-utf8\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\redent\\node_modules\\indent-string\\node_modules\\repeating\\node_modules\\is-finite\\node_modules\\number-is-nan\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-minify-css\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\package.json:\n    ERROR: Unable to open file\n\n0 matches\n\nSearching 11787 files for \"buchhaltungsbeleg\"\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\index.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\parser.generated.js:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\parse-json\\node_modules\\error-ex\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\index.js:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\readme.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\strip-bom\\node_modules\\is-utf8\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\redent\\node_modules\\indent-string\\node_modules\\repeating\\node_modules\\is-finite\\node_modules\\number-is-nan\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-minify-css\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\AccountingAdministration.ui.js:\n   17              {\n   18                  xtype: 'panel',\n   19:                 title: 'Buchhaltungsbelege',\n   20                  layout: 'border',\n   21                  id: 'accountingDocumentMain',\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\AccountingDocumentWindow.ui.js:\n   11  \n   12  AccountingDocumentWindowUi = Ext.extend(Ext.Window, {\n   13:     title: 'Buchhaltungsbeleg',\n   14      width: 700,\n   15      // height: 640,\n\n2 matches across 2 files\n\n\nSearching 11787 files for \"searchKey\"\n\nD:\\Projekte\\shopsystem\\controller\\verwaltung\\Calls\\ArticleAdministrationArticleGetArticleListData.php:\n  126          \n  127          //split searchstring at every blank\n  128:         $searchKeys = explode(\" \", $searchString);\n  129          \n  130          $result = array();\n  ...\n  159                  $sqlGetArticleData .= \" AND Article.idArticle IN \" .\n  160                          \"(SELECT idArticle FROM \" . Database::common() . \".Articleindex WHERE composer LIKE \";\n  161:                 if (count($searchKeys) <= 1) {\n  162                      $sqlGetArticleData .= \"'%\" . $searchString . \"%'\";\n  163                  } else {\n  164:                     for ($i = 0; $i < count($searchKeys); $i++) {\n  165:                         if ($i == count($searchKeys) - 1) {\n  166:                             $sqlGetArticleData .= \" '%\" . $searchKeys[$i] . \"%' \";\n  167                          } else {\n  168:                             $sqlGetArticleData .= \" '%\" . $searchKeys[$i] . \"%' AND composer LIKE \";\n  169                          }\n  170                      }\n\nD:\\Projekte\\shopsystem\\controller\\verwaltung\\Calls\\UniversalGetInfos.php:\n  271          \n  272          //ersetzten der / in der query\n  273:         $searchKeys = str_replace('/', '', $query);\n  274          \n  275          $result = array();\n  ...\n  279             FROM \". Database::common() .\".Tyresize \";\n  280         \n  281:        if($searchKeys != NULL && $searchKeys != '') \n  282:        $sqlTyresizeData .= \"WHERE CONCAT(CAST(`width` AS CHAR), CAST(`section` AS CHAR), CAST(`diameter` AS CHAR)) LIKE '\".$searchKeys.\"%'\";\n  283         \n  284         $sqlTyresizeData .= \" ORDER BY width, section, diameter ASC\";\n\nD:\\Projekte\\shopsystem\\controller\\verwaltung\\Tabs\\Accounting\\Query.php:\n  241  \n  242          $combobox = array(\n  243:                 array(  'searchKey' => 'number',\n  244                          'searchDisplay' => 'Belegnummer'\n  245                      ),\n  246:                 array(  'searchKey' => 'Contacttype.title',\n  247                          'searchDisplay' => 'Kontakttyp'\n  248                      ),\n  249:                 array(  'searchKey' => 'idContacttype',\n  250                          'searchDisplay' => 'Kontakttyp ID'\n  251                      ),\n  252:                 array(  'searchKey' => 'lastname',\n  253                          'searchDisplay' => 'Kontakt'\n  254                      ),\n  255:                 array(  'searchKey' => 'idContact',\n  256                          'searchDisplay' => 'Kontakt ID'\n  257                      ),\n  258:                 array(  'searchKey' => 'originalID',\n  259                          'searchDisplay' => 'Original ID'\n  260                      ),\n  261:                 array(  'searchKey' => 'creationRSUUserID',\n  262                          'searchDisplay' => 'Ersteller ID'\n  263                      ),\n  264:                 array(  'searchKey' => 'creationRSUUser',\n  265                          'searchDisplay' => 'Ersteller'\n  266                      ),\n  267:                 array(  'searchKey' => 'reviewRSUUserID',\n  268                          'searchDisplay' => 'Kontrolleur ID'\n  269                      ),\n  270:                 array(  'searchKey' => 'reviewRSUUser',\n  271                          'searchDisplay' => 'Kontrolleur'\n  272                      ),\n  273:                 array(  'searchKey' => 'bookRSUUserID',\n  274                          'searchDisplay' => 'Verbucher ID'\n  275                      ),\n  276:                 array(  'searchKey' => 'bookRSUUser',\n  277                          'searchDisplay' => 'Verbucher'\n  278                      ),\n  279:                 array(  'searchKey' => 'vatrate',\n  280                          'searchDisplay' => 'Mehrwertsteuersatz'\n  281                      ),\n  ...\n  287  \n  288          $default = array(\n  289:             'searchKey' => '0',\n  290              'searchDisplay' => 'Option auswählen..');\n  291  \n  ...\n  313  \n  314          $combobox = array(\n  315:                 array(  'searchKey' => '0',\n  316                          'searchDisplay' => 'Option auswählen..'\n  317                      ),\n  318:                 array(  'searchKey' => 'DepotorderForeignorderid',\n  319                          'searchDisplay' => 'Fremd-Lief. Nr.'\n  320                      ),\n  321:                 array(  'searchKey' => 'OrderIdArticle',\n  322                          'searchDisplay' => 'Artikel-ID (+)'\n  323                      ),\n  324:                 array(  'searchKey' => 'DepotName',\n  325                          'searchDisplay' => 'Lieferant (Name)'\n  326                      ),\n  327:                 array(  'searchKey' => 'idDepot',\n  328                          'searchDisplay' => 'Lieferant (ID) (+)'\n  329                      ),\n  330:                 array(  'searchKey' => 'ArticletypeTitle',\n  331                          'searchDisplay' => 'Artikeltyp'\n  332                      ),\n  333:                 array(  'searchKey' => 'idInvoice',\n  334                          'searchDisplay' => 'Rechnung ID (+)'\n  335                      ),\n  336:                 array(  'searchKey' => 'idDepotcreditnote',\n  337                          'searchDisplay' => 'Gutschrift ID (+)'\n  338                      ),\n  339:                 array(  'searchKey' => 'idOrder',\n  340                          'searchDisplay' => 'Bestellung ID (+)'\n  341                      ),\n  342:                 array(  'searchKey' => 'addressName',\n  343                          'searchDisplay' => 'Lieferanschrift Name'\n  344                      ),\n  345:                 array(  'searchKey' => 'addressZipcode',\n  346                          'searchDisplay' => 'Lieferanschrift PLZ'\n  347                      ),\n  348:                 array(  'searchKey' => 'addressStreet',\n  349                          'searchDisplay' => 'Lieferanschrift Straße'\n  350                      ),\n  351:                 array(  'searchKey' => 'comission',\n  352                          'searchDisplay' => 'Kommission'\n  353                      ),\n  354:                 array(  'searchKey' => 'articlenumber',\n  355                          'searchDisplay' => 'Artikel Größe'\n  356                      ),\n  357:                 array(  'searchKey' => 'producername',\n  358                          'searchDisplay' => 'Artikel Hersteller'\n  359                      ),\n  360:                 array(  'searchKey' => 'articledescription',\n  361                          'searchDisplay' => 'Artikel Name'\n  362                      )\n  ...\n  384  \n  385          $combobox = array(\n  386:                 array(  'searchKey' => '0',\n  387                          'searchDisplay' => 'Betragtype auswählen..'\n  388                      ),\n  389:                 array(  'searchKey' => 'DepotorderPrice',\n  390                          'searchDisplay' => 'EK-Preis Einzel (netto)'\n  391                      ),\n  392:                 array(  'searchKey' => 'ekSumme',\n  393                          'searchDisplay' => 'EK-Preis Summe (netto)'\n  394                      )\n  ...\n  417  \n  418          $combobox = array(\n  419:                 array(  'searchKey' => 'amountgrossSearch',\n  420                          'searchDisplay' => 'Beleg (Brutto)'\n  421                      ),\n  422:                 array(  'searchKey' => 'amountnetSearch',\n  423                          'searchDisplay' => 'Beleg (Netto)'\n  424                      )\n  ...\n  445  \n  446          $combobox = array(\n  447:                 array(  'searchKey' => 'dateSearch',\n  448                          'searchDisplay' => 'Belegdatum'\n  449                      ),\n  450:                 array(  'searchKey' => 'creationdateSearch',\n  451                          'searchDisplay' => 'Uploaddatum'\n  452                      ),\n  453:                 array(  'searchKey' => 'reviewdateSearch',\n  454                          'searchDisplay' => 'Kontrolldatum'\n  455                      ),\n  456:                 array(  'searchKey' => 'bookdateSearch',\n  457                          'searchDisplay' => 'Buchungsdatum'\n  458                      ),\n  459:                 array(  'searchKey' => 'netduedateSearch',\n  460                          'searchDisplay' => 'Zahlungsziel'\n  461                      ),\n  462:                 array(  'searchKey' => 'deletedateSearch',\n  463                          'searchDisplay' => 'Löschdatum'\n  464                      )\n  ...\n  489  \n  490          $combobox = array(\n  491:             array(  'searchKey' => '0',\n  492                          'searchDisplay' => 'Datumtype auswählen...'\n  493                      ),\n  494:                 array(  'searchKey' => 'creationdate',\n  495                          'searchDisplay' => 'Lieferantenbestellungsdatum'\n  496                      ),\n  497:                 array(  'searchKey' => 'orderingdate',\n  498                          'searchDisplay' => 'Kunden-Bestellungsdatum'\n  499                      ),\n  500:                 array(  'searchKey' => 'date',\n  501                          'searchDisplay' => 'Lieferanten-Rechnungsdatum'\n  502                      ),\n  ...\n  601          switch ($accountingdocument[0]['idContacttype']) {\n  602              case 1:\n  603:                 $searchKey = 'idDepot';\n  604                  break;\n  605              case 2:\n  606:                 $searchKey = 'idCustomer';\n  607                  break;\n  608              case 3:\n  609:                 $searchKey = 'idContact';\n  610                  break;\n  611          }\n  ...\n  614  \n  615              $queries = new Tabs_Accounting_Query($this->config);\n  616:             $contacts = $queries->getContacts($searchKey, $accountingdocument[0]['idContact']);\n  617  \n  618              foreach ($contacts['contacts'] as $contact) {\n  ...\n  642       * @since   2015-12-06\n  643       *\n  644:      * @param string $searchKey //\n  645       * @param string $query //\n  646       * @param int $idAccountingdocumentcategory id\n  ...\n  650       * @output json\n  651       */\n  652:     public function getContacts ($searchKey, $query, $idAccountingdocumentcategory = 0) {\n  653  \n  654          $contacts = array();\n  ...\n  657          $isDepot = false;\n  658  \n  659:         switch ($searchKey) {\n  660              case 'idDepot':\n  661                  $idDepot = $query;\n  ...\n  770              case 1:\n  771                  $data = array(\n  772:                             array(  'searchKey' => 'depotName',\n  773                                      'searchDisplay' => 'Name'),\n  774:                             array(  'searchKey' => 'idDepot',\n  775                                      'searchDisplay' => 'ID')\n  776                              );\n  ...\n  779              case 2:\n  780                  $data = array(\n  781:                             array(  'searchKey' => 'custommerName',\n  782                                      'searchDisplay' => 'Name'),\n  783:                             array(  'searchKey' => 'idCustommer',\n  784                                      'searchDisplay' => 'ID')\n  785                              );\n  ...\n  789              case 3:\n  790                  $data = array(\n  791:                             array(  'searchKey' => 'contactName',\n  792                                      'searchDisplay' => 'Name'),\n  793:                             array(  'searchKey' => 'idContact',\n  794                                      'searchDisplay' => 'ID')\n  795                              );\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\index.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-exceptions\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\LICENSE:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\README.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-correct\\node_modules\\spdx-license-ids\\spdx-license-ids.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\normalize-package-data\\node_modules\\validate-npm-package-license\\node_modules\\spdx-expression-parse\\parser.generated.js:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\parse-json\\node_modules\\error-ex\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\index.js:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\readme.md:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\strip-bom\\node_modules\\is-utf8\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-less-sourcemap\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\redent\\node_modules\\indent-string\\node_modules\\repeating\\node_modules\\is-finite\\node_modules\\number-is-nan\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\node_modules\\gulp-minify-css\\node_modules\\gulp-util\\node_modules\\dateformat\\node_modules\\meow\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\node_modules\\load-json-file\\node_modules\\pinkie-promise\\node_modules\\pinkie\\package.json:\n    ERROR: Unable to open file\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\AccountingAdministration.ui.js:\n  137                                                  xtype: 'combo',\n  138                                                  store: 'AccountingDocumenSearchOptionStore',\n  139:                                                 valueField: 'searchKey',\n  140                                                  displayField: 'searchDisplay',\n  141                                                  lazyInit: false,\n  ...\n  183                                                  triggerAction: 'all',\n  184                                                  store: 'AccountingDocumenSearchOptionStore',\n  185:                                                 valueField: 'searchKey',\n  186                                                  displayField: 'searchDisplay',\n  187                                                  width: 130,\n  ...\n  221                                                  name: 'thirdSearchCombo',\n  222                                                  store: 'AccountingDocumenSearchOptionStore',\n  223:                                                 valueField: 'searchKey',\n  224                                                  displayField: 'searchDisplay',\n  225                                                  width: 130,\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\AccountingDocumenSearchOptionStore.js:\n   15          AccountingDocumenSearchOptionStore.superclass.constructor.call(this, Ext.apply({\n   16              storeId: 'AccountingDocumenSearchOptionStore',\n   17:             idProperty: 'searchKey',\n   18              url: '/Tabs/Accounting/Query?getSearchComboContent',\n   19              root: 'data',\n   ..\n   21              fields: [\n   22                  {\n   23:                     name: 'searchKey'\n   24                  },\n   25                  {\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\AccountingDocumentContactOptionsStore.js:\n   15          AccountingDocumentContactOptionsStore.superclass.constructor.call(this, Ext.apply({\n   16              storeId: 'AccountingDocumentContactOptionsStore',\n   17:             idProperty: 'searchKey',\n   18              url: '/Tabs/Accounting/Query?getContactOptionByCategory',\n   19              root: 'data',\n   ..\n   21              fields: [\n   22                  {\n   23:                     name: 'searchKey'\n   24                  },\n   25                  {\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\AccountingDocumentWindow.js:\n   83          this.show();\n   84          this.selectDocumentCategory.on('click', this.setAccountingCategory, this);\n   85:         this.contactOptionSearch.on('select', this.setContactStoreSearchKey, this);\n   86          this.contactComboSearch.on('select', this.contactselection, this);\n   87          this.selectContact.on('click', this.setContact, this);\n   ..\n  698                          options, success){\n  699                      if (records.length) {\n  700:                         var val = records[0].get('searchKey');\n  701                          contactOptionSearch.setValue(val);\n  702:                         self.setContactStoreSearchKey();\n  703                      }\n  704                  }});\n  ...\n  706                  var firstRecord = contactOptionsStore.getAt(0);\n  707                  if (firstRecord){\n  708:                     var val = firstRecord.get('searchKey');\n  709                      contactOptionSearch.setValue(val);\n  710:                     self.setContactStoreSearchKey();\n  711  \n  712                  }\n  ...\n  715      },\n  716  \n  717:     setContactStoreSearchKey: function () {\n  718  \n  719:         var searchKey = Ext.getCmp('contactOptionSearch').getValue();\n  720          var store = this.contactComboSearch.getStore();\n  721:         store.setBaseParam('searchKey', searchKey);\n  722          store.setBaseParam('idAccountingdocumentcategory', this.idAccountingdocumentcategory);\n  723      },\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\AccountingDocumentWindow.ui.js:\n  134                                          flex: 1,\n  135                                          id: 'contactOptionSearch',\n  136:                                         valueField: 'searchKey',\n  137                                          displayField: 'searchDisplay',\n  138                                          lazyInit: false,\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\Review\\ReviewDocumentSearchAmountTypeStore.js:\n   13          ReviewDocumentSearchAmountTypeStore.superclass.constructor.call(this, Ext.apply({\n   14              storeId: 'ReviewDocumentSearchAmountTypeStore',\n   15:             idProperty: 'searchKey',\n   16              url: '/Tabs/Accounting/Query?getAmountDepotorderComboContent',\n   17              root: 'data',\n   ..\n   19              fields: [\n   20                  {\n   21:                     name: 'searchKey'\n   22                  },\n   23                  {\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\Review\\ReviewDocumentSearchDateTypeStore.js:\n   13          ReviewDocumentSearchDateTypeStore.superclass.constructor.call(this, Ext.apply({\n   14              storeId: 'ReviewDocumentSearchDateTypeStore',\n   15:             idProperty: 'searchKey',\n   16              url: '/Tabs/Accounting/Query?getDateDepotorderComboContent',\n   17              root: 'data',\n   ..\n   19              fields: [\n   20                  {\n   21:                     name: 'searchKey'\n   22                  },\n   23                  {\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\Review\\ReviewDocumentSearchOptionsStore.js:\n   15          ReviewDocumentSearchOptionsStore.superclass.constructor.call(this, Ext.apply({\n   16              storeId: 'ReviewDocumentSearchOptionsStore',\n   17:             idProperty: 'searchKey',\n   18              url: '/Tabs/Accounting/Query?getSearchDepotorderComboContent',\n   19              root: 'data',\n   ..\n   21              fields: [\n   22                  {\n   23:                     name: 'searchKey'\n   24                  },\n   25                  {\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\Review\\ReviewDocumentTabContent.js:\n 2231                                                          xtype: 'combo',\n 2232                                                          store: 'ReviewDocumentSearchOptionsStore',\n 2233:                                                         valueField: 'searchKey',\n 2234                                                          displayField: 'searchDisplay',\n 2235                                                          lazyInit: false,\n ....\n 2277                                                          triggerAction: 'all',\n 2278                                                          store: 'ReviewDocumentSearchOptionsStore',\n 2279:                                                         valueField: 'searchKey',\n 2280                                                          displayField: 'searchDisplay',\n 2281                                                          width: 130,\n ....\n 2315                                                          name: 'ReviewthirdSearchCombo' + idAccountingdocument,\n 2316                                                          store: 'ReviewDocumentSearchOptionsStore',\n 2317:                                                         valueField: 'searchKey',\n 2318                                                          displayField: 'searchDisplay',\n 2319                                                          width: 130,\n ....\n 2360                                                          anchor: '100%',\n 2361                                                          store: 'ReviewDocumentSearchDateTypeStore',\n 2362:                                                         valueField: 'searchKey',\n 2363                                                          displayField: 'searchDisplay',\n 2364                                                          lazyInit: false,\n ....\n 2428                                                          editable: false,\n 2429                                                          triggerAction: 'all',\n 2430:                                                         valueField: 'searchKey',\n 2431                                                          displayField: 'searchDisplay',\n 2432                                                          lazyRender: true\n\nD:\\Projekte\\shopsystem\\startup\\verwaltung\\js\\generated\\Media\\Advertisingcampaign\\Create\\CreateAdvertisingcampaignWindow.js:\n   22          this.contactSearchCombo.getStore().on('beforeload', function(store){\n   23              store.baseParams = {\n   24:                     searchKey: self.contactSearchCombo.getValue(),\n   25                      query: self.contactSearchCombo.getValue(),\n   26                  };\n\n97 matches across 13 files\n",
+			"settings":
+			{
+				"buffer_size": 43969,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/AccountingDocument/AccountingDocumentWindow.js",
+			"settings":
+			{
+				"buffer_size": 38554,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/CreateAdvertisingcampaignWindow.js",
+			"settings":
+			{
+				"buffer_size": 3180,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "* @param $idAdvertisingcampaigntype //\n* @param $idAdvertisingcampaignsubtype //\n* @param $idContacttype //\n* @param $contact //\n* @param $validfrom //\n* @param $validuntil //\n* @param $comment //\n* @param $maxcost //\n* @param $charge //",
+			"settings":
+			{
+				"buffer_size": 237,
+				"line_ending": "Unix",
+				"name": "* @param $idAdvertisingcampaigntype //"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ss sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"toggleside",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"toggl",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ss javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss hmtrl",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshmtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ss jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssles",
+				"Set Syntax: LESS"
+			],
+			[
+				"toggle si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Dump Import Directories"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"sshm",
+				"Set Syntax: HTML"
+			],
+			[
+				"subllinter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"linter user",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublime linter ch",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"sublimelinter c",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"sublime linter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"package control user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"sublimelinster",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"JSLint"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"package Controle",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ss sq",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 156.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projekte/shopsystem",
+		"/D/Projekte/shopsystem/controller",
+		"/D/Projekte/shopsystem/global",
+		"/D/Projekte/shopsystem/global/common",
+		"/D/Projekte/shopsystem/global/common/Database",
+		"/D/Projekte/shopsystem/global/common/Database/Queries",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopVerwaltung",
+		"/D/Projekte/shopsystem/startup",
+		"/D/Projekte/shopsystem/startup/node_modules",
+		"/D/Projekte/shopsystem/startup/node_modules/gulp-concat",
+		"/D/Projekte/shopsystem/startup/node_modules/gulp-concat/node_modules",
+		"/D/Projekte/shopsystem/startup/node_modules/gulp-concat/node_modules/concat-with-sourcemaps",
+		"/D/Projekte/shopsystem/startup/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules",
+		"/D/Projekte/shopsystem/startup/verwaltung",
+		"/D/Projekte/shopsystem/startup/verwaltung/js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create",
+		"/D/html/ES6 Babel/ES6 webpack babel"
+	],
+	"file_history":
+	[
+		"/D/Projekte/shopsystem/view/verwaltung/HomeForm.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/AdvertisingcampaigntypeStore.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/AdvertisingcampaignsubtypeStore.js",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopVerwaltung/Advertisingcampaign.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/CreateAdvertisingcampaignWindow.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/AdvertisingcampaignStore.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ContactContactTypeStore.js",
+		"/D/Projekte/shopsystem/controller/verwaltung/Tabs/RetailMediaMarketing/Query.php",
+		"/D/dump/sql updates/RSUIT-737-2.sql",
+		"/D/Projekte/shopsystem/controller/verwaltung/Tabs/Accounting/Query.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/AccountingDocument/AccountingAdministration.ui.js",
+		"/C/Users/Tobias/Downloads/Y5YGBCYNY4.txt",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/BankWindow.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/InvoiceGrid.ui.js",
+		"/D/workflow.txt",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Depot/VatGridPanel.ui.js",
+		"/D/Projekte/shopsystem/startup/tyresystem/js/generated/StatisticsGrid.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Technicalreport/COC/CocNoteGridStore.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Technicalreport/COC/COCPanel.ui.js",
+		"/D/dump/sql updates/RSUIT-737.sql",
+		"/D/Projekte/shopsystem/view/verwaltung/Tabs/RetailMediaMarketing/Index.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/RetailMediaMarketingTab.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/RetailMediaMarketingGrid.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/CreateAdvertisingcampaignWindow.js",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopVerwaltung/Advertisingcampaignsubtype.php",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopVerwaltung/AdvertisingcampaignMedia.php",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopVerwaltung/Advertisingcampaigntype.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Order.js",
+		"/D/Projekte/shopsystem/startup/common/config.php",
+		"/D/Projekte/shopsystem/controller/verwaltung/Tabs/RetailMediaMarketing/Index.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/RetailMediaMarketing.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/RetailMediaMarketingTab.ui.js",
+		"/D/Projekte/shopsystem/global/common/Config/Cache/Key.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/RetailMediaMarketingPanel.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/RetailMediaMarketingPanel.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/RetailMediaMarketingGrid.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/BannerStartForm.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/BannerStartForm.js",
+		"/D/Projekte/shopsystem/startup/common/js/init/init.js",
+		"/D/Projekte/shopsystem/startup/common/Less/team.less",
+		"/D/Projekte/shopsystem/controller/verwaltung/Tabs/ArticleAdministration/Media/Query.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/CreateAdvertisingcampaignWindow.js",
+		"/D/Projekte/shopsystem/startup/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/dist/source-map.min.js.map",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/CreateAdvertisingcampaignWindow.ui.js",
+		"/D/Projekte/shopsystem/controller/common/Kaufen/Artikeldetails.php",
+		"/D/Projekte/shopsystem/startup/common/js/components/kaufen/vehicleDataService.js",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopCommon/Rimhubcap.php",
+		"/D/Projekte/shopsystem/controller/common/Kaufen/Suchergebnisse.php",
+		"/D/Projekte/shopsystem/view/common/Kaufen/Suchergebnisse.php",
+		"/D/Projekte/shopsystem/startup/common/js/components/kaufen/artikeldetails/articledetailCtrl.js",
+		"/D/Projekte/shopsystem/controller/shell/CheckPrepaymentOrders.php",
+		"/D/Projekte/shopsystem/controller/tyresystem/Services/CancelDepotorder.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/OrderTab.js",
+		"/D/Projekte/shopsystem/global/OrderAdministration.php",
+		"/D/Projekte/shopsystem/startup/common/js/components/kaufen/bestellungen/ordersCtrl.js",
+		"/D/Projekte/shopsystem/view/common/Kaufen/Bestellungen.php",
+		"/D/Projekte/shopsystem/startup/common/js/extInit.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/CustomerAddress.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/CustomerTab.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/CustomerTab.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/OrderTab.ui.js",
+		"/D/Projekte/shopsystem/startup/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/node_modules/spdx-license-ids/package.json",
+		"/C/Users/Tobias/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Projekte/shopsystem/controller/verwaltung/Tabs/ArticleAdministration/Media/Command.php",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopCommon/Articleimage.php",
+		"/D/Projekte/shopsystem/global/common/Database/Entry/ShopCommon/Articleimage.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Technicalreport/COC/LinkedCocStoreWriter.js",
+		"/D/Projekte/shopsystem/view/reifensuche/LoginForm.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministration/ArticleImageUploadWindow.js",
+		"/D/dict/german.dic",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministration/CustomerImageInfoPanel.ui.js",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopCommon/Mediasubtype.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministration/MediaSubTypeStore.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministration/ArticleImageUploadWindow.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministration/CustomerImageInfoPanel.js",
+		"/D/Projekte/shopsystem/global/common/Config/Media/Subtype.php",
+		"/C/Users/Tobias/AppData/Local/Temp/tmp184F.tmp.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministrationArticle/RimhubcapPanelEntry.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministrationArticle/RimhubcapPanel.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/OrderGrid.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministrationArticle/RimhubcapAddWindow.ui.js",
+		"/D/Projekte/shopsystem/controller/verwaltung/Tabs/ArticleAdministrationArticle/Rimhubcap/Command.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/ArticleAdministration.js",
+		"/D/Projekte/shopsystem/controller/common/Kaufen/Produkte.php",
+		"/D/Projekte/shopsystem/view/common/Kaufen/Produkte.php",
+		"/D/Projekte/shopsystem/view/tyresystem/Header.php",
+		"/D/Projekte/shopsystem/controller/verwaltung/Tabs/RetailMediaMarketing/Command.php",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Depot/VatGridStoreWriter.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/Technicalreport/COC/COCPanel.js",
+		"/D/Projekte/shopsystem/startup/common/js/extHelpers.js",
+		"/D/VM/ShopServer-data/globaldata/htdocs/lib/ext/ext-3.3.1/ext-all-debug-w-comments.js",
+		"/D/VM/ShopServer-data/globaldata/htdocs/lib/ext/ext-3.3.1/ext-all-debug.js",
+		"/D/Projekte/shopsystem/startup/common/js/components/common/utils/selectBoxFixes.js",
+		"/D/dump/order.sql",
+		"/D/dump/orders.csv",
+		"/D/dump/orders.sql",
+		"/D/Jour Fix Liste",
+		"/D/Projekte/shopsystem/startup/common/Less/components/alerts.less",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/DepotTab.ui.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/CustomerAddress.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/generated/ArticleAdministrationArticle/RimhubcapAddWindow.js",
+		"/D/Projekte/shopsystem/startup/gulpfile.js",
+		"/D/Projekte/shopsystem/startup/verwaltung/js/HomeForm.js",
+		"/D/dump/sql updates/fel-78.sql",
+		"/D/Links.txt",
+		"/D/Projekte/shopsystem/global/common/Depotorder/Accounting/Adjuster/SetAdjustment.php",
+		"/D/Projekte/shopsystem/startup/common/Less/kaufen/suchergebnisse.less",
+		"/D/Projekte/shopsystem/startup/common/Less/grid.less",
+		"/D/Projekte/shopsystem/view/common/Kaufen/Artikeldetails.php",
+		"/D/Projekte/shopsystem/startup/common/Less/components/tooltip.less",
+		"/D/Projekte/shopsystem/startup/common/js/Kaufen/Suchergebnisse.js",
+		"/D/Projekte/shopsystem/startup/common/js/components/kaufen/carModelSelectionGrid/rimCtrl.js",
+		"/D/Projekte/shopsystem/startup/tyresystem/stylesheets/tyresystem.css",
+		"/D/Projekte/shopsystem/startup/common/Less/typo.less",
+		"/D/Projekte/shopsystem/startup/common/js/components/kaufen/scrollBarCtrl.js",
+		"/D/Projekte/shopsystem/startup/common/js/components/common/jquery.mCustomScrollbar.js",
+		"/D/Projekte/shopsystem/startup/common/js/components/common/baseComponents/scrollService.js",
+		"/D/Projekte/shopsystem/startup/common/Less/components/navs.less",
+		"/D/Projekte/shopsystem/startup/common/Less/components.less",
+		"/D/Projekte/shopsystem/startup/common/Less/components/dropDown.less",
+		"/D/Projekte/shopsystem/controller/tyresystem/Einstellungen/ModuleActivator.php",
+		"/D/Projekte/shopsystem/startup/reifensuche/js/components/init.js",
+		"/D/Projekte/shopsystem/startup/reifensuche/js/reifensuche.js",
+		"/C/Users/Tobias/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Projekte/shopsystem/controller/common/Calls/VehicleData.php",
+		"/D/Projekte/shopsystem/global/common/Database/Queries/ShopCommon/TechnicalpositionTyresize.php",
+		"/D/Projekte/shopsystem/startup/common/js/init/components/jquery.mCustomScrollbar.js",
+		"/D/Projekte/shopsystem/controller/verwaltung/Tabs/ArticleAdministrationArticle/Rimhubcap/Query.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"shopsystem/view",
+			"view",
+			"",
+			"C:\\Users\\Tobias\\Downloads\\bootstrap-3.3.4\\bootstrap-3.3.4",
+			"D:\\Projekte\\shopsystem"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"* @param",
+			",",
+			":1",
+			"ids",
+			"[type]",
+			"RetailMediaMarketingGrid",
+			"MyFieldSet",
+			"searchKey",
+			"getContacts",
+			"contactComboSearch",
+			"searchkey",
+			"idAdvertisingcampaignsubtype",
+			"buchhaltungsbeleg",
+			"buchaltungsbeleg",
+			"name",
+			"id",
+			"Advertisingcampaigntype",
+			"AdvertisingcampaignStore",
+			"idAdvertisingcampaign",
+			"Advertisingcampaigntypes",
+			"Advertisingcampaignsubtype",
+			"CreateAd",
+			"addCampaing",
+			"RetailMediaMarketingGrid",
+			"MyWindowUi",
+			"RetailMediaMarketingPanel",
+			"name:",
+			"InvoiceGridUi",
+			"CocNoteGridStore",
+			"banktransactionpanel",
+			"RetailMediaMarketingTab",
+			"CustomerSearch",
+			"title",
+			"title: 'My Panel',",
+			"MyPanelUi",
+			"CustomerTab",
+			"RetailMediaMarketing",
+			"VoucherOverview",
+			"array_diff",
+			"localhost",
+			"executionTime",
+			"GetOrders",
+			"canBeCanceld",
+			"canceld",
+			"canceled",
+			"rimhubcup",
+			"rimhubcap",
+			"                self.mediaSubtypeCombo.setValue(records[0].get('idMediasubtype'));\n",
+			"idMediatype",
+			"diese",
+			" Sie befinden sich in der Demover",
+			"notice visible",
+			"error visible",
+			"textLeft grid error visible",
+			"ass=\"error",
+			"notice",
+			"postion",
+			"idArticlename",
+			"articleAdministration_articlenameImagesStore",
+			"/Tabs/EditDepot/Vatnumbers/",
+			"/Tabs/ArticleAdministration/Media/",
+			"articleAdministration_articlenameImagesStore",
+			"medien",
+			"meden",
+			"median",
+			"articleAdministration_articlenameImagesStore",
+			"Medien: ",
+			"/DoCall?id=7&call=DoArticlenames",
+			"addEntry",
+			"rsu.request =",
+			"rsurequest",
+			"[type]",
+			"idRim",
+			"idArticle",
+			"fetch",
+			"localhost",
+			"replace",
+			"addall =",
+			"addall",
+			"this.addall",
+			"this.replace",
+			"replace",
+			" ",
+			"orderGrid",
+			"id   ",
+			"id",
+			"setActiveTab",
+			".pipe(co",
+			"pipe(conc",
+			"details",
+			"idTechnicalreport",
+			"hpath: ''",
+			"less()",
+			"less",
+			"kunde",
+			"splitNav",
+			".absoluteRight",
+			"headlinear",
+			"spc",
+			"mCustomScrollbar",
+			"checkForRimhubcapflag",
+			"parentidContact",
+			"localhost",
+			"rimSizes",
+			"console.log",
+			"grid",
+			"transclude",
+			"$rootScope.$emit",
+			"closemodal",
+			"localhost",
+			"clicktip",
+			"click-tip",
+			"click-",
+			"Advertising_Campaign_Type",
+			"120 Reifengroßhändler",
+			"getCountOfCheapestArticle",
+			"outerExternal",
+			"#",
+			"findExternalshops",
+			"                                $scope.defaultAddress = data.data[0];",
+			"localhost",
+			"ExternalshopWriter",
+			"bs/Scraper/Externalshop/Query?get",
+			"findExternalshops",
+			"fet",
+			"diameter",
+			"modelcode",
+			","
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Ja"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/RetailMediaMarketingPanel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/AccountingDocument/AccountingDocumentWindow.ui.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7792,
+								7810
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/BannerStartForm.ui.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Projekte/shopsystem/controller/verwaltung/Tabs/VehicleTyreRimCare/Query.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Projekte/shopsystem/global/common/Database/Queries/DataVehicle/Vehiclecocnote.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5898,
+								5898
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2993.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/BannerStartForm.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43969,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										15249,
+										15266
+									],
+									[
+										15559,
+										15576
+									],
+									[
+										15882,
+										15891
+									],
+									[
+										16208,
+										16217
+									],
+									[
+										16390,
+										16399
+									],
+									[
+										16459,
+										16468
+									],
+									[
+										16544,
+										16553
+									],
+									[
+										16674,
+										16683
+									],
+									[
+										16931,
+										16940
+									],
+									[
+										17123,
+										17132
+									],
+									[
+										17146,
+										17155
+									],
+									[
+										17296,
+										17305
+									],
+									[
+										17551,
+										17560
+									],
+									[
+										17701,
+										17710
+									],
+									[
+										17861,
+										17870
+									],
+									[
+										18020,
+										18029
+									],
+									[
+										18168,
+										18177
+									],
+									[
+										18320,
+										18329
+									],
+									[
+										18474,
+										18483
+									],
+									[
+										18636,
+										18645
+									],
+									[
+										18793,
+										18802
+									],
+									[
+										18955,
+										18964
+									],
+									[
+										19112,
+										19121
+									],
+									[
+										19270,
+										19279
+									],
+									[
+										19423,
+										19432
+									],
+									[
+										19616,
+										19625
+									],
+									[
+										19784,
+										19793
+									],
+									[
+										19936,
+										19945
+									],
+									[
+										20108,
+										20117
+									],
+									[
+										20269,
+										20278
+									],
+									[
+										20427,
+										20436
+									],
+									[
+										20585,
+										20594
+									],
+									[
+										20744,
+										20753
+									],
+									[
+										20901,
+										20910
+									],
+									[
+										21068,
+										21077
+									],
+									[
+										21225,
+										21234
+									],
+									[
+										21389,
+										21398
+									],
+									[
+										21555,
+										21564
+									],
+									[
+										21723,
+										21732
+									],
+									[
+										21875,
+										21884
+									],
+									[
+										22034,
+										22043
+									],
+									[
+										22197,
+										22206
+									],
+									[
+										22407,
+										22416
+									],
+									[
+										22563,
+										22572
+									],
+									[
+										22734,
+										22743
+									],
+									[
+										22943,
+										22952
+									],
+									[
+										23107,
+										23116
+									],
+									[
+										23315,
+										23324
+									],
+									[
+										23468,
+										23477
+									],
+									[
+										23630,
+										23639
+									],
+									[
+										23792,
+										23801
+									],
+									[
+										23952,
+										23961
+									],
+									[
+										24113,
+										24122
+									],
+									[
+										24315,
+										24324
+									],
+									[
+										24471,
+										24480
+									],
+									[
+										24643,
+										24652
+									],
+									[
+										24811,
+										24820
+									],
+									[
+										25065,
+										25074
+									],
+									[
+										25169,
+										25178
+									],
+									[
+										25276,
+										25285
+									],
+									[
+										25488,
+										25497
+									],
+									[
+										25693,
+										25702
+									],
+									[
+										25891,
+										25900
+									],
+									[
+										26062,
+										26071
+									],
+									[
+										26267,
+										26276
+									],
+									[
+										26409,
+										26418
+									],
+									[
+										26655,
+										26664
+									],
+									[
+										26801,
+										26810
+									],
+									[
+										27051,
+										27060
+									],
+									[
+										27195,
+										27204
+									],
+									[
+										35148,
+										35157
+									],
+									[
+										35569,
+										35578
+									],
+									[
+										35989,
+										35998
+									],
+									[
+										36462,
+										36471
+									],
+									[
+										36673,
+										36682
+									],
+									[
+										37052,
+										37061
+									],
+									[
+										37268,
+										37277
+									],
+									[
+										37625,
+										37634
+									],
+									[
+										37957,
+										37966
+									],
+									[
+										38087,
+										38096
+									],
+									[
+										38329,
+										38338
+									],
+									[
+										38451,
+										38460
+									],
+									[
+										38551,
+										38560
+									],
+									[
+										38603,
+										38612
+									],
+									[
+										38759,
+										38768
+									],
+									[
+										38771,
+										38780
+									],
+									[
+										39196,
+										39205
+									],
+									[
+										39668,
+										39677
+									],
+									[
+										39889,
+										39898
+									],
+									[
+										40263,
+										40272
+									],
+									[
+										40482,
+										40491
+									],
+									[
+										40853,
+										40862
+									],
+									[
+										41074,
+										41083
+									],
+									[
+										41508,
+										41517
+									],
+									[
+										41967,
+										41976
+									],
+									[
+										42454,
+										42463
+									],
+									[
+										42903,
+										42912
+									],
+									[
+										43336,
+										43345
+									],
+									[
+										43798,
+										43807
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								15657,
+								15657
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"default_dir": "D:\\Projekte\\shopsystem",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12227.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/AccountingDocument/AccountingDocumentWindow.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26346,
+								26346
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/Projekte/shopsystem/startup/verwaltung/js/generated/Media/Advertisingcampaign/Create/CreateAdvertisingcampaignWindow.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1476.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								237
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "* @param $idAdvertisingcampaigntype //",
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_dir": "D:\\Projekte\\shopsystem",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.504566210046,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RSU-Komplettsystem.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"abs/vehicletyrerimcare/quer",
+				"shopsystem\\controller\\verwaltung\\Tabs\\VehicleTyreRimCare\\Query.php"
+			],
+			[
+				"homeform",
+				"shopsystem\\view\\verwaltung\\HomeForm.php"
+			],
+			[
+				"/tabs/accounting/quer",
+				"shopsystem\\controller\\verwaltung\\Tabs\\Accounting\\Query.php"
+			],
+			[
+				"contactcontacttypestore",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\ContactContactTypeStore.js"
+			],
+			[
+				"accountingdocumenuijs",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\AccountingDocument\\AccountingDocumentWindow.ui.js"
+			],
+			[
+				"home",
+				"shopsystem\\view\\verwaltung\\HomeForm.php"
+			],
+			[
+				"mediamarketgin",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Media\\Advertisingcampaign\\RetailMediaMarketingPanel.js"
+			],
+			[
+				"queriesadver",
+				"shopsystem\\global\\common\\Database\\Queries\\ShopVerwaltung\\Advertisingcampaign.php"
+			],
+			[
+				"mediaquery",
+				"shopsystem\\controller\\verwaltung\\Tabs\\ArticleAdministration\\Media\\Query.php"
+			],
+			[
+				"mediamarkequery",
+				"shopsystem\\controller\\verwaltung\\Tabs\\RetailMediaMarketing\\Query.php"
+			],
+			[
+				"js.map",
+				"shopsystem\\startup\\node_modules\\gulp-concat\\node_modules\\concat-with-sourcemaps\\node_modules\\source-map\\dist\\source-map.min.js.map"
+			],
+			[
+				".less",
+				"shopsystem\\startup\\common\\Less\\team.less"
+			],
+			[
+				"init",
+				"shopsystem\\startup\\common\\js\\init\\init.js"
+			],
+			[
+				"retalmedia",
+				"shopsystem\\view\\verwaltung\\Tabs\\RetailMediaMarketing\\Index.php"
+			],
+			[
+				"coc",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Technicalreport\\COC\\COCPanel.ui.js"
+			],
+			[
+				"windowjs",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\BankWindow.js"
+			],
+			[
+				"grid.ui.js",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\InvoiceGrid.ui.js"
+			],
+			[
+				"coc.ui",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Technicalreport\\COC\\COCPanel.ui.js"
+			],
+			[
+				"cocgrid",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Technicalreport\\COC\\CocNoteGridStore.js"
+			],
+			[
+				"technicalrgrid",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Technicalreport\\COC\\CocNoteGridStore.js"
+			],
+			[
+				"cachekey",
+				"shopsystem\\global\\common\\Config\\Cache\\Key.php"
+			],
+			[
+				"vatgrind",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Depot\\VatGridPanel.ui.js"
+			],
+			[
+				"customerad",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\CustomerAddress.ui.js"
+			],
+			[
+				"customertab",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\CustomerTab.js"
+			],
+			[
+				"tab.ui.js",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\CustomerTab.ui.js"
+			],
+			[
+				"ordertab",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\OrderTab.ui.js"
+			],
+			[
+				"retailmedia",
+				"shopsystem\\controller\\verwaltung\\Tabs\\RetailMediaMarketing\\Index.php"
+			],
+			[
+				"extinit",
+				"shopsystem\\startup\\common\\js\\extInit.js"
+			],
+			[
+				"config",
+				"shopsystem\\startup\\common\\config.php"
+			],
+			[
+				"order.js",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Order.js"
+			],
+			[
+				"mediacommand",
+				"shopsystem\\controller\\verwaltung\\Tabs\\ArticleAdministration\\Media\\Command.php"
+			],
+			[
+				"artiimagejs",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\ArticleAdministration\\ArticleImageUploadWindow.js"
+			],
+			[
+				"articleadminis",
+				"shopsystem\\startup\\verwaltung\\js\\ArticleAdministration.js"
+			],
+			[
+				"rimhubcap",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\ArticleAdministrationArticle\\RimhubcapAddWindow.ui.js"
+			],
+			[
+				"media/query",
+				"shopsystem\\controller\\verwaltung\\Tabs\\ArticleAdministration\\Media\\Query.php"
+			],
+			[
+				"viewprodukte",
+				"shopsystem\\view\\common\\Kaufen\\Produkte.php"
+			],
+			[
+				"produkte",
+				"shopsystem\\controller\\common\\Kaufen\\Produkte.php"
+			],
+			[
+				"tyresystemheader",
+				"shopsystem\\view\\tyresystem\\Header.php"
+			],
+			[
+				"cocpan",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Technicalreport\\COC\\COCPanel.js"
+			],
+			[
+				"entryarticleimage",
+				"shopsystem\\global\\common\\Database\\Entry\\ShopCommon\\Articleimage.php"
+			],
+			[
+				"storewrtier",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Technicalreport\\COC\\LinkedCocStoreWriter.js"
+			],
+			[
+				"rticleadministration/media/command",
+				"shopsystem\\controller\\verwaltung\\Tabs\\ArticleAdministration\\Media\\Command.php"
+			],
+			[
+				"vatwriter",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Depot\\VatGridStoreWriter.js"
+			],
+			[
+				"articleadministra",
+				"shopsystem\\startup\\verwaltung\\js\\ArticleAdministration.js"
+			],
+			[
+				"rimhubcapentry",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\ArticleAdministrationArticle\\RimhubcapPanelEntry.js"
+			],
+			[
+				"rimhubcappanel",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\ArticleAdministrationArticle\\RimhubcapPanel.js"
+			],
+			[
+				"orde.js",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Order.js"
+			],
+			[
+				"order",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\OrderGrid.js"
+			],
+			[
+				"gulpfil",
+				"shopsystem\\startup\\gulpfile.js"
+			],
+			[
+				"depottab",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\DepotTab.ui.js"
+			],
+			[
+				"alert",
+				"shopsystem\\startup\\common\\Less\\components\\alerts.less"
+			],
+			[
+				"viewtyresystemheader",
+				"shopsystem\\view\\tyresystem\\Header.php"
+			],
+			[
+				"suchergebnisse",
+				"shopsystem\\controller\\common\\Kaufen\\Suchergebnisse.php"
+			],
+			[
+				"customeradress",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\CustomerAddress.js"
+			],
+			[
+				"tyresystem.css",
+				"shopsystem\\startup\\tyresystem\\stylesheets\\tyresystem.css"
+			],
+			[
+				"artikelctrl",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\artikeldetails\\articledetailCtrl.js"
+			],
+			[
+				"ctrl",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\carModelSelectionGrid\\rimCtrl.js"
+			],
+			[
+				"viewartikeldetails",
+				"shopsystem\\view\\common\\Kaufen\\Artikeldetails.php"
+			],
+			[
+				"tyreheader",
+				"shopsystem\\view\\tyresystem\\Header.php"
+			],
+			[
+				"tyresystem",
+				"shopsystem\\controller\\tyresystem\\Einstellungen\\ModuleActivator.php"
+			],
+			[
+				"typo",
+				"shopsystem\\startup\\common\\Less\\typo.less"
+			],
+			[
+				"viewsuchergebnisse",
+				"shopsystem\\view\\common\\Kaufen\\Suchergebnisse.php"
+			],
+			[
+				"sucherge",
+				"shopsystem\\startup\\common\\js\\Kaufen\\Suchergebnisse.js"
+			],
+			[
+				"nav",
+				"shopsystem\\startup\\common\\Less\\components\\navs.less"
+			],
+			[
+				"suchergebnisse.less",
+				"shopsystem\\startup\\common\\Less\\kaufen\\suchergebnisse.less"
+			],
+			[
+				"scrollba",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\scrollBarCtrl.js"
+			],
+			[
+				"reifensuche",
+				"shopsystem\\startup\\reifensuche\\js\\reifensuche.js"
+			],
+			[
+				"scrollbar",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\scrollBarCtrl.js"
+			],
+			[
+				"scroll",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\scrollBarCtrl.js"
+			],
+			[
+				"vehicleserve",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\vehicleDataService.js"
+			],
+			[
+				"viewheader",
+				"shopsystem\\view\\tyresystem\\Header.php"
+			],
+			[
+				"artikeldetailsctrl",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\artikeldetails\\articledetailCtrl.js"
+			],
+			[
+				"kaufenartikeldetails",
+				"shopsystem\\controller\\common\\Kaufen\\Artikeldetails.php"
+			],
+			[
+				"controllerartikeldeails",
+				"shopsystem\\controller\\common\\Artikeldetails.php"
+			],
+			[
+				"modal.js",
+				"shopsystem\\startup\\common\\js\\components\\common\\baseComponents\\modalsAndTooltips\\modal.js"
+			],
+			[
+				"clicktip",
+				"shopsystem\\startup\\common\\js\\components\\common\\baseComponents\\modalsAndTooltips\\clickTip.js"
+			],
+			[
+				"header",
+				"shopsystem\\controller\\tyresystem\\Header.php"
+			],
+			[
+				"con",
+				"shopsystem\\global\\Config.php"
+			],
+			[
+				"controllerkaufenprodukte",
+				"shopsystem\\controller\\common\\Kaufen\\Produkte.php"
+			],
+			[
+				"banner",
+				"shopsystem\\startup\\common\\js\\components\\advertising\\bannerstart.js"
+			],
+			[
+				"externalshop",
+				"shopsystem\\global\\common\\Database\\Queries\\ShopCommon\\Externalshop.php"
+			],
+			[
+				"arrayhelper",
+				"shopsystem\\startup\\common\\js\\init\\components\\arrayHelper.js"
+			],
+			[
+				"calls/customerdeliveryaddress",
+				"shopsystem\\controller\\tyresystem\\Calls\\Customerdeliveryaddress.php"
+			],
+			[
+				"queriesorder",
+				"shopsystem\\global\\common\\Database\\Queries\\ShopVerwaltung\\Order.php"
+			],
+			[
+				"stration/media/query",
+				"shopsystem\\controller\\verwaltung\\Tabs\\ArticleAdministration\\Media\\Query.php"
+			],
+			[
+				"verpaging",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\PageSizePagingToolbar.js"
+			],
+			[
+				"pages",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\PageSizePagingToolbar.js"
+			],
+			[
+				"agesizepaging",
+				"shopsystem\\startup\\tyresystem\\js\\generated\\PageSizePagingToolbar.js"
+			],
+			[
+				"ordergrid",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\OrderGrid.js"
+			],
+			[
+				"init.sj",
+				"shopsystem\\startup\\common\\js\\init\\init.js"
+			],
+			[
+				"cancelwindow",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\CancelWindow.js"
+			],
+			[
+				"pagesizepagingtoolbar",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\PageSizePagingToolbar.ui.js"
+			],
+			[
+				"banksalestab",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\BankSalesTabCheck.js"
+			],
+			[
+				"ordertabs",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\OrderTab.js"
+			],
+			[
+				"ctrlartikeldetials",
+				"shopsystem\\controller\\common\\Kaufen\\Artikeldetails.php"
+			],
+			[
+				"banktransactionpanel",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\BanktransactionPanel.js"
+			],
+			[
+				"tabsbankadmaifil",
+				"shopsystem\\controller\\verwaltung\\Tabs\\BankAdministration\\Filter.php"
+			],
+			[
+				"abs/scraper/externalshop/query",
+				"shopsystem\\controller\\verwaltung\\Tabs\\Scraper\\Externalshop\\Query.php"
+			],
+			[
+				"orderservice",
+				"shopsystem\\startup\\tyresystem\\js\\components\\kaufen\\artikeldetails\\orderService.js"
+			],
+			[
+				"rimctrl",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\carModelSelectionGrid\\rimCtrl.js"
+			],
+			[
+				"viewatrikeldetils",
+				"shopsystem\\view\\common\\Kaufen\\Artikeldetails.php"
+			],
+			[
+				"artikeldetilctrl",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\artikeldetails\\articledetailCtrl.js"
+			],
+			[
+				"orderdepotorder",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\OrderDepotorder.js"
+			],
+			[
+				"ordercancel",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\OrdercancelstateStore.js"
+			],
+			[
+				"ordercance",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\bestellungen\\orderCancelCtrl.js"
+			],
+			[
+				"viewarti",
+				"shopsystem\\view\\common\\Kaufen\\Artikeldetails.php"
+			],
+			[
+				"articledetails",
+				"shopsystem\\startup\\common\\js\\components\\kaufen\\artikeldetails\\articledetailCtrl.js"
+			],
+			[
+				"cocpanel",
+				"shopsystem\\startup\\verwaltung\\js\\generated\\Technicalreport\\COC\\COCPanel.js"
+			],
+			[
+				"vehicrimcaecomm",
+				"shopsystem\\controller\\verwaltung\\Tabs\\VehicleTyreRimCare\\Command.php"
+			],
+			[
+				"advertype",
+				"shopsystem\\global\\common\\Advertising\\Campaign\\Type.php"
+			],
+			[
+				"media",
+				"shopsystem\\global\\common\\Database\\Queries\\ShopCommon\\Media.php"
+			],
+			[
+				"vehicletyrerimcare/command",
+				"shopsystem\\controller\\verwaltung\\Tabs\\VehicleTyreRimCare\\Command.php"
+			],
+			[
+				"shellfueling",
+				"shopsystem\\controller\\shell\\DataVehicleFueling.php"
+			],
+			[
+				"queriesvehicleindex",
+				"shopsystem\\global\\common\\Database\\Queries\\DataVehicle\\Vehicleindex.php"
+			],
+			[
+				"ueberuns",
+				"shopsystem\\view\\reifensuche\\UeberUns.php"
+			],
+			[
+				"sprites",
+				"shopsystem\\startup\\common\\Less\\sprites.less"
+			],
+			[
+				"advertisingcampaing",
+				"shopsystem\\global\\common\\Database\\Queries\\ShopVerwaltung\\AdvertisingcampaignMedia.php"
+			],
+			[
+				"advertmedia",
+				"shopsystem\\global\\common\\Database\\Entry\\ShopVerwaltung\\AdvertisingcampaignMediadisplaylog.php"
+			],
+			[
+				"shadver",
+				"shopsystem\\controller\\shell\\Advertising.php"
+			],
+			[
+				"configad",
+				"shopsystem\\global\\common\\Config\\Additioncalculationtype.php"
+			],
+			[
+				"mediadisplay",
+				"shopsystem\\global\\common\\Database\\Queries\\ShopLog\\Mediadisplaylog.php"
+			],
+			[
+				"shellveh",
+				"shopsystem\\controller\\shell\\DataVehicleFueling.php"
+			],
+			[
+				"advertisingservi",
+				"shopsystem\\startup\\common\\js\\components\\advertising\\advertisingService.js"
+			],
+			[
+				"advertisingjs",
+				"shopsystem\\startup\\common\\js\\components\\advertising\\bannerstart.js"
+			],
+			[
+				"tyresystemheaer",
+				"shopsystem\\controller\\tyresystem\\Header.php"
+			],
+			[
+				"advertisingtype",
+				"shopsystem\\global\\common\\Advertising\\Campaign\\Type.php"
+			],
+			[
+				"entrymedialog",
+				"shopsystem\\global\\common\\Database\\Entry\\ShopLog\\Mediadisplaylog.php"
+			],
+			[
+				"dvertising",
+				"shopsystem\\controller\\common\\Calls\\Advertising.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test",
+				"D:\\Projekte\\tests\\tests.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Tobias\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\RSU-Komplettsystem.sublime-project"
+			],
+			[
+				"te",
+				"D:\\Projekte\\tests\\tests.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 680.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

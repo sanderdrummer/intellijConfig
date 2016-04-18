@@ -1,0 +1,11 @@
+{
+    "jsdocs_extra_tags": [
+                        "",
+                        "@author Tobias Pickel <tobias.pickel@rsu-reifen.de>",
+                        "@since {{date}}",
+                        ""
+                        ],
+    "jsdocs_param_description": false,
+    "jsdocs_simple_mode": false,
+    "jsdocs_return_description": false,
+}
